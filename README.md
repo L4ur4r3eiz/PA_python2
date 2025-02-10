@@ -1,2 +1,2 @@
-# PA_python2
-Material criado em aula de programação e algoritimos da ETEC MCM aprendendo python
+# ProgrAlgoritm_1C-1F_2025
+ProgrAlgoritm1C$1F2025
